@@ -1,2 +1,2 @@
-# suzy-page
-Pagina da Suzy
+# patricio-page
+mini-Pagina do patricio
